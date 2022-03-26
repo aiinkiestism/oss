@@ -8,6 +8,3 @@ OSS I've contributed.
 
 ## YEN SHOP
 - [yen-client](https://github.com/YEN-org/yen-client)
-
-## Pancake bot
-- [pancake-bot](https://github.com/aiinkiestism/pancake-bot)
